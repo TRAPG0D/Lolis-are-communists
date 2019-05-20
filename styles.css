@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right,#000000, #800000, #FF0000 );
+    color:#FFFFFF;
+    text-align:center;
+    Font-size: 45.3px;
+    font-family: "comic sans ms";
+    height: 300%;
+    cursor:auto;
+    filter: brightness(1%), invert(0%), contrast(0%);
+}
+iframe {
+    width: 700px;
+    height: 480px;
+}
