@@ -1,1 +1,0 @@
-# Lolis-are-communists
